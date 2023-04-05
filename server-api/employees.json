@@ -1,0 +1,156 @@
+[
+  {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "address": "Westlands Nairobi",
+    "email": "jane@gmail.com",
+    "gender": "female",
+    "maritalStatus": "single",
+    "department": "ict",
+    "role": "database admin",
+    "id": "0478cf9c-9bf1-436e-8ca3-bedb137721c3"
+  },
+  {
+    "firstName": "Jessy",
+    "lastName": "Maasai",
+    "address": "Thome Nairobi",
+    "email": "jessy@gmail.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "transport",
+    "role": "mechanic",
+    "id": "b0124da9-54d3-4baa-a71d-6a36f6c1d83e"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Odegaard",
+    "address": "NLD",
+    "email": "odegaard@gmail.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "catering",
+    "role": "chief chef",
+    "id": "5a449e22-f214-43bb-bc3f-9ad3c325683f"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Diana",
+    "address": "Kileleshwa Nairobi",
+    "email": "diana@gmail.com",
+    "gender": "female",
+    "maritalStatus": "single",
+    "department": "ict",
+    "role": "admission officer",
+    "id": "e0ba80a1-1903-4da1-afea-af9b8bfe1f41"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "White",
+    "address": "Kayole Nairobi",
+    "email": "ben@gmail.com",
+    "gender": "male",
+    "maritalStatus": "married",
+    "department": "admission",
+    "role": "receptionist",
+    "id": "09840567-c687-487a-8335-a5e1cb09e792"
+  },
+  {
+    "firstName": "Granitt",
+    "lastName": "Zhaka",
+    "address": "Kawangware Nairobi",
+    "email": "zhaka@gmail.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "ict",
+    "role": "designer",
+    "id": "b431ee1f-e2d3-437b-85de-a5d3a4a15607"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Saliba",
+    "address": "Langata Nairobi",
+    "email": "sali@gmail.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "transport",
+    "role": "driver",
+    "id": "5551bf65-854f-4cd5-b538-f6fbd9106b2b"
+  },
+  {
+    "firstName": "Anita",
+    "lastName": "Anita",
+    "address": "Kilimani Nairobi",
+    "email": "anita@gmail.com",
+    "gender": "female",
+    "maritalStatus": "married",
+    "department": "admission",
+    "role": "admission officer",
+    "id": "3e55ccb5-8402-4801-8a34-a5147dc30782"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Doe",
+    "address": "Roysambu Nairobi",
+    "email": "doe@gmail.com",
+    "gender": "male",
+    "maritalStatus": "married",
+    "department": "catering",
+    "role": "chef",
+    "id": "14650153-d3ff-479f-b3e8-9cd87cf1a72f"
+  },
+  {
+    "firstName": "Selena",
+    "lastName": "Selena",
+    "address": "Mirema Nairobi",
+    "email": "selena@gmail.com",
+    "gender": "female",
+    "maritalStatus": "single",
+    "department": "catering",
+    "role": "Server",
+    "id": "58a184f6-2d2a-4690-b6ef-4f33b84151d8"
+  },
+  {
+    "firstName": "Bakhita",
+    "lastName": "Bakhita",
+    "address": "Yaya Nairobi",
+    "email": "bakhita@gmail.com",
+    "gender": "female",
+    "maritalStatus": "married",
+    "department": "catering",
+    "role": "chef",
+    "id": "6fe30f03-184e-49a9-865f-95f7b553e4ce"
+  },
+  {
+    "firstName": "Trevor ",
+    "lastName": "Kiptoo",
+    "address": "Kasarani Kenya",
+    "email": "trevor@gmail.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "admission",
+    "role": "admission officer",
+    "id": "66b30051-5527-4036-83bf-63ee36d60a4e"
+  },
+  {
+    "firstName": "rrrr",
+    "lastName": "rrrr",
+    "address": "rrr",
+    "email": "rrr@g.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "ict",
+    "role": "rrrr",
+    "id": "d7cde306-6940-4113-8ed1-00b7880f4b4a"
+  },
+  {
+    "firstName": "zzz",
+    "lastName": "zz",
+    "address": "zzzzzz",
+    "email": "zzz@g.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "ict",
+    "role": "zzzzzzz",
+    "id": "a5aef9d0-7028-446b-ae87-f7647286e785"
+  }
+]
