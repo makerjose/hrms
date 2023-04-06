@@ -55,7 +55,7 @@
     "id": "09840567-c687-487a-8335-a5e1cb09e792"
   },
   {
-    "firstName": "Granitt",
+    "firstName": "Granit",
     "lastName": "Zhaka",
     "address": "Kawangware Nairobi",
     "email": "zhaka@gmail.com",
@@ -130,17 +130,6 @@
     "department": "admission",
     "role": "admission officer",
     "id": "66b30051-5527-4036-83bf-63ee36d60a4e"
-  },
-  {
-    "firstName": "rrrr",
-    "lastName": "rrrr",
-    "address": "rrr",
-    "email": "rrr@g.com",
-    "gender": "male",
-    "maritalStatus": "single",
-    "department": "ict",
-    "role": "rrrr",
-    "id": "d7cde306-6940-4113-8ed1-00b7880f4b4a"
   },
   {
     "firstName": "zzz",
